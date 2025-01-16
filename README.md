@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Fine-tuning LLMs**
 
-- 💬 Ask me about **React, Next , NodeJS, Fastapi**
+- 💬 Ask me about **React, Next , NodeJS, Fastapi, ExpressJS , Python, MongoDB , Webhooks, Ollama, LLMs, Huggingface**
 
 - 📫 How to reach me **humaidhusain98@gmail.com**
 
