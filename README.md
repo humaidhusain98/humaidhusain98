@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humaidhusain98" alt="humaidhusain98" /></a> </p>
 
-- 🌱 I’m currently working to **fine-tune LLMs and chain abstraction**
+- 🌱 I’m currently working to **fine-tune LLMs and build blockchain DApps**
 
 - 💬 Ask me about **React, Next , NodeJS, Fastapi, ExpressJS , Python, MongoDB , Webhooks, Ollama, LLMs, Cloud Computing, Scripting**
 
