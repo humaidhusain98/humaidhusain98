@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working to **fine-tune LLMs and building blockchain DApps**
 
-- 💬 Ask me about **React, Next , NodeJS, Fastapi, ExpressJS , Python, MongoDB , Webhooks, Ollama, LLMs, Cloud Computing, Scripting**
+- 💬 Ask me about **React, Next , NodeJS, Fastapi, ExpressJS , Python, MongoDB , Webhooks, Ollama, LLMs, Cloud Computing, Scripting, Blockchain**
 
 - 📫 How to reach me **humaidhusain98@gmail.com**
 
