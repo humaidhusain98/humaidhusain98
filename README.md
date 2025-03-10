@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humaidhusain98" alt="humaidhusain98" /></a> </p>
 
-- 🌱 I’m currently working to **fine-tune LLMs and building blockchain DApps**
+- 🌱 I’m currently working to **fine-tune LLMs, exploring Models using Ollama/ HuggingFace , building custom AI Agents, building Advanced AI Processes using LangGraph ,building RAG systems and building blockchain DApps**
 
-- 💬 Ask me about **React, Next , NodeJS, Fastapi, ExpressJS , Python, MongoDB , Webhooks, Ollama, LLMs, Cloud Computing, Scripting, Blockchain**
+- 💬 Ask me about **Langchain, LangGraph, Chatgpt, Deepseek, Gemini, LLama, AI Agents , LLMs , AWS , Serverless and server hosting, Scripting, RAGs, Machine Learning, ,React, Next , NodeJS, Fastapi, ExpressJS , Python, MongoDB , Webhooks, Ollama, Cloud Computing, Scripting, Blockchain**
 
 - 📫 How to reach me **humaidhusain98@gmail.com**
 
